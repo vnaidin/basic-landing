@@ -37,13 +37,13 @@ Build your React landing page effortlessly with the required sections to your pr
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/leoMirandaa/shadcn-landing-page.git
+git clone https://github.com/tron-trade/wallet-landing.git
 ```
 
 2. Go into project
 
 ```bash
-cd shadcn-landing-page
+cd wallet-landing
 ```
 
 3. Install dependencies
@@ -52,8 +52,20 @@ cd shadcn-landing-page
 npm install
 ```
 
-4. Run project
+4. Run project locally
 
 ```bash
 npm run dev
 ```
+
+## Deploy to GitHub Pages
+
+This project is configured for deployment to GitHub Pages at https://tron-trade.github.io/wallet-landing/
+
+To deploy:
+
+```bash
+npm run deploy
+```
+
+This will build the project and publish the `dist` folder to the `gh-pages` branch.
