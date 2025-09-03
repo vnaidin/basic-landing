@@ -1,34 +1,59 @@
-# React JS Landing Page Template
+# Shadcn/UI Landing Page Template
 
-**
+## <a href="https://ui.shadcn.com/" target="_blank">ShadcnUI</a> + <a href="https://react.dev/" target="_blank">React</a> + <a href="https://www.typescriptlang.org/" target="_blank">TypeScript</a> + <a href="https://tailwindcss.com/" target="_blank">Tailwind</a>.
 
-# 🛎️🛎️ Good news! New & improved [V2](https://github.com/issaafalkattan/react-landing-page-template-2021) is out  
+![shadch-landing-page](https://github.com/leoMirandaa/shadcn-landing-page/assets/61714687/3ba7b51f-9589-4541-800a-5ab7cecad1b5)
 
-**
+Build your React landing page effortlessly with the required sections to your project. <a href="https://shadcn-landing-page.vercel.app/" target="_blank">Live Demo</a>
 
+## Sections
 
-### <a href="https://react-landing-page-template-93ne.vercel.app/">LIVE DEMO</a> 
+- [x] Navbar
+- [x] Sidebar(mobile)
+- [x] Hero
+- [x] Sponsors
+- [x] About
+- [x] Stats
+- [x] How It Works
+- [x] Features
+- [x] Services
+- [x] Call-to-Action (CTA)
+- [x] Testimonials
+- [x] Team
+- [x] Pricing
+- [x] Newsletter
+- [x] Frequently Asked Questions(FAQ)
+- [x] Footer
 
-## Description
-This is a ReactJS based landing page template, fit for a startup company/service with a one page view. The design is inspired by a template from <a href="https://www.free-css.com/assets/files/free-css-templates/preview/page234/interact/">Free-CSS.com </a>
-All 'visual' data can be easily modified by changing the data.json file.
+## Features
 
-## Make it Yours!
-### 1. Preps
-You will need to have <a href="https://nodejs.org/">Node JS</a> installed on your pc. 
+- [x] Fully Responsive Design
+- [x] User Friendly Navigation
+- [x] Dark Mode
+- [x] Meta tags
 
-### 2. Clone Files
-After cloning the files, you will have to run ```yarn``` followed by ```yarn start``` in the CLI
-### 3. Add your own data 
-Change the data in the ```data.json``` file as well as add any images to ```public/img/```
-You can also change styles by modifying the ```public/css``` files.
-If you need the contact form to work, you also need to create an EmailJS account, and modify the ```src/components/contact.jsx``` file to replace your own service ID, template ID and Public Key
+## How to install
 
-## Like this project?
-<a href="https://www.buymeacoffee.com/issaaf">Buy my a coffee ☕️</a>
+1. Clone this repository:
 
-## Credits
-##### Free CSS 
-<a href="https://www.free-css.com/assets/files/free-css-templates/preview/page234/interact/">Free-CSS.com </a>
+```bash
+git clone https://github.com/leoMirandaa/shadcn-landing-page.git
+```
 
-##### Issaaf kattan
+2. Go into project
+
+```bash
+cd shadcn-landing-page
+```
+
+3. Install dependencies
+
+```bash
+npm install
+```
+
+4. Run project
+
+```bash
+npm run dev
+```
